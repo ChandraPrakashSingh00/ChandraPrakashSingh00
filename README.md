@@ -62,7 +62,7 @@
 </div>            
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChandraPrakashSingh00&theme=highcontrast" alt="GitHub Streak" /></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakashSing00k&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  <br/>
 
 <h2>Show some ❤️ by starring some of the repositories!</h2>
