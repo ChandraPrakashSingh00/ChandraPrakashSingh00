@@ -12,7 +12,7 @@
 
 - 🖐Hi there!, I'm Chandra Prakash Singh.
 
-- 🙋‍♂️ All about me is at [www.vinayaksingh.com](https://vinayaksingh.com)
+- 🙋‍♂️ All about me is at.
 
 - 📖 I’m student of BCA at `Greater Noida`.
 
@@ -55,20 +55,19 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
 <div align="left">
 <h2>GitHub Stats:</h2>
 </div>            
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChandraPrakashSingh00&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  <br/>
 
 <h2>Show some ❤️ by starring some of the repositories!</h2>
 <p>
-  <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+  <a href="https://github.com/ChandraPrakashSingh00">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakashSingh00&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="ChandraPrakashSingh00's GitHub Stats" />
   </a>
 </p>
